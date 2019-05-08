@@ -1,0 +1,4 @@
+#Sun Apr 14 15:01:19 EDT 2019
+base.0=C\:\\Users\\harsh\\AndroidStudioProjects\\SimpleDht\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex
